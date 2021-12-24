@@ -1,0 +1,261 @@
+.card{
+    background-color: rgb(172, 210, 223);
+    width: 100%;
+    border: 1px solid black;
+     
+}
+.card-body{
+    background: url(https://mocah.org/thumbs/5402362-chair-white-laptop-macbook-apple-tech-technology-minimal-design-interior-product-shoot-product-photo-mac-product-imac-computer-fashion-macbook-pro-mac-creative-commons-images.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    padding-top: 100px;
+}
+li{
+    padding-left: 150px;
+    font-size: 40px;
+}
+.imgtext{
+    padding-top: 600px;
+    margin-top: -200px;
+    margin-left: 60%;
+    font-size: 50px;
+    padding-bottom: 500px;
+}
+h2{
+    font-size: 100px;
+    padding-bottom: 100px;
+}
+p{
+    padding-bottom: 100px;
+}
+.about{
+    background-color: white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+}
+.about  h4{
+    font-size: 80px;
+    padding-bottom: 80px;
+}
+.about  p{
+    font-size: 50px;
+}
+.img2nd{
+    width: 50%;
+}
+.skills{
+    width: 50%;
+    background-color:lightgrey;
+    padding-top: 200px;
+    padding-left: 150px;
+    padding-bottom: 250px;
+}
+.textimg{
+    display: flex;
+    background-color:grey;
+
+}
+.skills h5{
+    font-size: 70px;
+    padding-bottom: 80px;
+}
+.perc  p{
+    font-size: 40px;
+    padding-top: 50px;
+    
+}
+hr{
+    margin-top: -100px;
+    width: 85%;
+    color: blue;
+    size: 3px;
+
+}
+.img2{
+    width: 500px;
+    height: 50%;
+}
+.textimg img {
+    width: 50%;
+}
+.information{
+    background-color: limegreen;
+    display: flex;
+    font-size: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.info1{
+    width: 25%;
+    padding: 110px;
+}
+.info2{
+    width: 25%;
+    padding: 110px;
+}
+.info3{
+    width: 25%;
+    padding: 110px;
+}
+.info4{
+    width: 25%;
+    padding: 110px;
+}
+.images1 img{
+    width: 25%;
+    height: 600px;
+}
+.images2 img{
+    width: 25%;
+    height: 600px;
+}
+.load{
+    background-color: lightgrey;
+    padding: 100px;
+    
+}
+.load h3{
+    font-size: 60px;
+}
+.work{
+    background-color: white;
+    padding-top: 150px;
+}
+.work h6{
+    font-size: 60px;
+    padding-bottom: 100px;
+}
+.work p{
+    font-size: 40px;
+    padding-bottom: 150px;
+   
+}
+
+.work img{
+    width: 70%;
+    height: 1200px;
+    padding-bottom: 150px;
+}
+
+.data{
+    background-color: rgb(97, 211, 97);
+    display: flex;
+    font-size: 45px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.data1{
+    width: 25%;
+    padding: 110px;
+}
+.data2{
+    width: 25%;
+    padding: 110px;
+}
+.data3{
+    width: 25%;
+    padding: 110px;
+}
+.data4{
+    width: 25%;
+    padding: 110px;
+}
+
+.deta{
+    background-color: rgb(97, 211, 97);
+    display: flex;
+    font-size: 45px;
+    
+    padding-bottom: 100px;
+  
+}
+.deta1{
+    width: 25%;
+    padding: 100px;
+}
+.deta2{
+    width: 25%;
+    padding: 100px;
+}
+.deta3{
+    width: 25%;
+    padding: 100px;
+}
+.deta4{
+    width: 25%;
+    padding: 100px;
+}
+
+.pink{
+    background-color: lightpink;
+    padding: 200px;
+    font-size: 45px;
+}
+.brand img{
+    width: 20%;
+    padding: 70px;
+    background-color: white;
+}
+.frm {
+    background-color: lightgray;
+    padding: 200px;
+}
+.frm h1{
+    font-size: 90px;
+    padding-bottom: 80px;
+}
+.frm p{
+
+    font-size: 50px;
+
+}
+
+.inpt{
+    width: 35.5%;
+    height: 80px;
+    margin: 30px;
+    font-size: 40px;
+    padding-left: 30px;
+}
+.inpt1{
+    width: 73.5%;
+    height: 80px;
+    margin: 30px;
+    font-size: 40px;
+    padding-left: 30px;
+}
+.frm  button {
+    width: 25%;
+    height: 80px;
+    margin-top: 100px;
+    background-color: lightsteelblue;
+    font-size: 40px;
+}
+.footer{
+    display: flex;
+    padding: 150px;
+    background-color: black;
+    color: white;
+}
+.comp{
+    width:30%;
+    font-size: 30px;
+}
+.contact{
+    width: 20%;
+    font-size: 30px;
+}
+.projects{
+    width: 20%;
+}
+.accounts{
+    width: 15%;
+}
+.events{
+    width: 15%;
+}
+.footer h6{
+    font-size: 35px;
+    padding-bottom: 30px;
+}

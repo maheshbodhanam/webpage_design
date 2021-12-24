@@ -1,0 +1,49 @@
+.card{
+    background-color: rgb(172, 210, 223);
+    width: 100%;
+    border: 1px solid black;
+   
+    
+   
+}
+.card-body{
+    background-color: rgb(209, 218, 219);
+    width: 100%;
+    
+    
+  
+}
+.nav1{
+    margin-bottom: -40px;
+    
+
+}
+
+.imgtext {
+    background: url(https://mocah.org/thumbs/5402362-chair-white-laptop-macbook-apple-tech-technology-minimal-design-interior-product-shoot-product-photo-mac-product-imac-computer-fashion-macbook-pro-mac-creative-commons-images.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+  
+    padding-left: 850px;
+    padding-top: 100px;
+    padding-bottom: 300px;
+    
+  }
+  .imgtext > h2{
+      padding-bottom: 30px;
+  }
+  .imgtext > p{
+      padding-bottom: 30px;
+  }
+  .imgtext > button{
+      background-color: blue;
+  }
+  .about{
+      background-color: white;
+      height: 250px;
+      width: 1398px;
+      
+      margin-top: -25px;
+      padding-top: 60px;
+
+  }
